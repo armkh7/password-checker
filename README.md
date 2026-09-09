@@ -26,3 +26,11 @@ python password_checker.py
 ```
 
 Type the password when prompted and press Enter. Your input is hidden, so it does not appear in the terminal or command history.
+
+## Tests
+
+Run the test suite while the virtual environment is active:
+
+```bash
+python -m unittest -v
+```
